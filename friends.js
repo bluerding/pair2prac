@@ -1,5 +1,5 @@
-var bestFriend = "Ben" 
-var goodFriend = "Maya"
+var bestFriend = "Be" 
+var goodFriend = "May"
 if (bestFriend === "Ben") {
     console.log("Hey, best friend!") 
 } else if (goodFriend === "Maya") {
